@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hashamhabib/graphql-es6/issues"
   },
-  "homepage": "https://github.com/hashamhabib/graphql-es6#readme"
+  "homepage": "https://github.com/hashamhabib/graphql-es6#readme",
+  "dependencies": {
+    "iterall": "^1.2.2"
+  }
 }
