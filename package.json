@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hashamhabib/graphql-es6.git"
+    "url": "git+https://github.com/hashamhabib/graphql.git"
   },
   "author": "itshashamhabib@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hashamhabib/graphql-es6/issues"
+    "url": "https://github.com/hashamhabib/graphql/issues"
   },
-  "homepage": "https://github.com/hashamhabib/graphql-es6#readme",
+  "homepage": "https://github.com/hashamhabib/graphql#readme",
   "dependencies": {
     "iterall": "^1.2.2"
   }
