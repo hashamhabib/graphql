@@ -1,5 +1,5 @@
 {
-  "name": "graphql-es6",
+  "name": "graphql",
   "version": "1.0.0",
   "description": "Nodejs graphql for the browser",
   "main": "index.js",
